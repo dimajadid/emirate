@@ -1,8 +1,8 @@
 {
   "Guide App" : {
     "ads_mode" : "admob",
-    "interstitial_interval": 3,
-    "native_interval": 3,
+    "interstitial_interval": 2,
+    "native_interval": 2,
 
     "admost_app_id" : "ab2f1002-a48b-4bca-9113-e96c8d9a6bc2",
     "admost_banner_id" : "banner",
