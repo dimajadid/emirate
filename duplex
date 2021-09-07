@@ -4,25 +4,25 @@
     "interstitial_interval": 1,
     "native_interval": 2,
 
-    "admost_app_id" : "ab2f1002-a48b-4bca-9113-e96c8d9a6bc2",
+    "admost_app_id" : "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
     "admost_banner_id" : "banner",
     "admost_native_id" : "native",
     "admost_interstitial_id" : "interstitial",
 
-    "tapdaq_app_id" : "6133534508fe6c2d735d6ba8",
-    "tapdaq_client_key" : "8b44c86d-4840-4d1b-be92-5897aabccdbb",
-    "tapdaq_banner_id" : "default",
-    "tapdaq_native_id" : "default",
-    "tapdaq_interstitial_id" : "default",
+    "tapdaq_app_id" : "60c3349f08fe6c2d735d663a",
+    "tapdaq_client_key" : "fbce30ca-5e3a-44c6-9bc1-7fa49668c4a3",
+    "tapdaq_banner_id" : " Banner",
+    "tapdaq_native_id" : "Native",
+    "tapdaq_interstitial_id" : "Inter",
 
     "yandex_app_id" : "",
     "yandex_banner_id" : "R-M-DEMO-320x50",
     "yandex_native_id" : "R-M-DEMO-300x250",
     "yandex_interstitial_id" : "R-M-DEMO-480x320",
 
-    "admob_banner_id" : "ca-app-pub-9378489751865824/2577371034",
-    "admob_native_id" : "ca-app-pub-9378489751865824/9180300223",
-    "admob_interstitial_id" : "ca-app-pub-9378489751865824/9414242123",
+    "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+    "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
 
     "content":[
       {
