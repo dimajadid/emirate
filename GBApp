@@ -1,7 +1,7 @@
 {
   "Guide App" : {
     "ads_mode" : "admob",
-    "interstitial_interval": 2,
+    "interstitial_interval": 1,
     "native_interval": 2,
 
     "admost_app_id" : "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
@@ -20,9 +20,9 @@
     "yandex_native_id" : "R-M-DEMO-300x250",
     "yandex_interstitial_id" : "R-M-DEMO-480x320",
 
-    "admob_banner_id" : "ca-app-pub-9378489751865824/7067280383",
-    "admob_native_id" : "ca-app-pub-9378489751865824/9633733970",
-    "admob_interstitial_id" : "ca-app-pub-9378489751865824/3535229487",
+    "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+    "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
 
     "content":[
       {
