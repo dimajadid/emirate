@@ -1,75 +1,61 @@
 {
-  "Guide App" : {
-    "ads_mode" : "admob",
-    "interstitial_interval": 1,
-    "native_interval": 2,
+	"Guide App": {
+		"ads_mode": "admob",
+		"interstitial_interval": 1,
+		"native_interval": 2,
 
-    "admost_app_id" : "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
-    "admost_banner_id" : "banner",
-    "admost_native_id" : "native",
-    "admost_interstitial_id" : "interstitial",
+		"admost_app_id": "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
+		"admost_banner_id": "banner",
+		"admost_native_id": "native",
+		"admost_interstitial_id": "interstitial",
 
-    "tapdaq_app_id" : "60c3349f08fe6c2d735d663a",
-    "tapdaq_client_key" : "fbce30ca-5e3a-44c6-9bc1-7fa49668c4a3",
-    "tapdaq_banner_id" : " Banner",
-    "tapdaq_native_id" : "Native",
-    "tapdaq_interstitial_id" : "Inter",
+		"tapdaq_app_id": "60c3349f08fe6c2d735d663a",
+		"tapdaq_client_key": "fbce30ca-5e3a-44c6-9bc1-7fa49668c4a3",
+		"tapdaq_banner_id": " Banner",
+		"tapdaq_native_id": "Native",
+		"tapdaq_interstitial_id": "Inter",
 
-    "yandex_app_id" : "",
-    "yandex_banner_id" : "R-M-DEMO-320x50",
-    "yandex_native_id" : "R-M-DEMO-300x250",
-    "yandex_interstitial_id" : "R-M-DEMO-480x320",
+		"yandex_app_id": "",
+		"yandex_banner_id": "R-M-DEMO-320x50",
+		"yandex_native_id": "R-M-DEMO-300x250",
+		"yandex_interstitial_id": "R-M-DEMO-480x320",
 
-    "admob_banner_id" : "ca-app-pub-9378489751865824/2577371034",
-    "admob_native_id" : "ca-app-pub-9378489751865824/9180300223",
-    "admob_interstitial_id" : "ca-app-pub-9378489751865824/9414242123",
+		"admob_banner_id": "ca-app-pub-9378489751865824/2577371034",
+		"admob_native_id": "ca-app-pub-9378489751865824/9180300223",
+		"admob_interstitial_id": "ca-app-pub-9378489751865824/9414242123",
 
-    "content":[
-      {
-        "title": "DUPLEX IPTV GUIDE FOR SMART TV",
-        "description": "Watch IPTV from your Smart TV.//BREAK//
-1- Download the duplex iptv app for your SMARTTV marketplace
-2- On your computer go to https://edit.duplex iptv .com/
-3- Put your TV MAC address and upload your m3u list then click on submit 4- Reboot your TV Enjoy Live Channels",
-        "image":"https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
-      },
-      {
-        "title": "DUPLEX IPTV GUIDE FOR ANDROID DEVICES
-",
-        "description": "Watch IPTV from your Android devices://BREAK// 
-1- Open the Google Play Store App on your Android device 2- On the Search field, search for duplex iptv 3- Download the App on your Device 4- On your computer or smartphone go to https://edit.duplex iptv.com/
-5- Put your APP MAC address and upload your m3u list then click on submit 6- Reboot your APP Enjoy Live Channels",
-        "image":"https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
-      },
-      {
+		"content": [{
+				"title": "DUPLEX IPTV GUIDE FOR SMART TV",
+				"description": "Watch IPTV from your Smart TV.//BREAK//1 - Download the duplex iptv appfor your SMARTTV marketplace2 - On your computer go to https: //edit.duplex iptv .com/3 - Put your TV MAC address and upload your m3u list then click on submit 4 - Reboot your TV Enjoy Live Channels ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "DUPLEX IPTV GUIDE FOR ANDROID DEVICES",
+				"description": "Watch IPTV from your Android devices://BREAK//1 - Open the Google Play Store App on your Android device 2 - On the Search field,searchfor duplex iptv 3 - Download the App on your Device 4 - On your computer or smartphone go to https: //edit.duplex iptv.com/5 - Put your APP MAC address and upload your m3u list then click on submit 6 - Reboot your APP Enjoy Live Channels ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
 
-        "title": "DUPLEX IPTV GUIDE FOR APPLE DEVICES",
-        "description": "Watch IPTV from your iOS devices://BREAK// 
-1- Open the APP Store on your Apple device
-2- On the Search field, search for duplex iptv 3- Download the App on your Device 4- On your computer or smartphone go to https://edit.duplex iptv.com/
-5- Put your APP MAC address and upload your m3u list then click on submit 6- Reboot your APP Enjoy Live Channels",
-        "image":"https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
-      },
-      {
-        "title": "IPTV GUIDE FOR PC",
-        "description": "Watch IPTV from your laptop or disktop://BREAK//
-1- Download VLC form the official website https://www.videolan.org/vlc/index.html 2- Download your M3U file and open it with VLC 3- Enjoy Live Channels! "if you need m3u file" contact us",
-        "image":"https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
-      },
-      {
-        "title": "IPTV GUIDE FOR MAGBOX DEVICES",
-        "description": "Watch IPTV from your Mag device.//BREAK//
-1- On your MAG device, go to Settings > Servers and Portals
-2- On the Portal 1 name, input the portal URL available on your email or whatsapp 3- Press OK to save and then reboot your device 4- Enjoy Live Channels!",
-        "image":"https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
-      },
-      {
-        "title": "IPTV GUIDE FOR MACBOX DEVICES CONCLUSION",
-        "description": "Conclusion://BREAK//
-Watching our Favorite TV Channels and shows from the Comfort place and from the working place can be achievable with the help of the iptv for all devices (mobile,disktop, magbox, Laptop). Simply Download the app by following the above process. And you do not need to pay for a subscription, whole content can be viewed free. it consumes very fewer data as compared to the other Live Streaming Applications.",
-        "image":"https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
-      }
+				"title": "DUPLEX IPTV GUIDE FOR APPLE DEVICES",
+				"description": "Watch IPTV from your iOS devices://BREAK//1 - Open the APP Store on your Apple device2 - On the Search field,searchfor duplex iptv 3 - Download the App on your Device 4 - On your computer or smartphone go to https: //edit.duplex iptv.com/5 - Put your APP MAC address and upload your m3u list then click on submit 6 - Reboot your APP Enjoy Live Channels ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "IPTV GUIDE FOR PC",
+				"description": "Watch IPTV from your laptop or disktop://BREAK//1- Download VLC form the official website https: //www.videolan.org/vlc/index.html 2- Download your M3U file and open it with VLC 3- Enjoy Live Channels! if you need m3u file contact us ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "IPTV GUIDE FOR MAGBOX DEVICES",
+				"description": "Watch IPTV from your Mag device.//BREAK//1 - On your MAG device,go to Settings > Servers and Portals2 - On the Portal 1 name,input the portal URL available on your email or whatsapp 3 - Press OK to save and then reboot your device 4 - Enjoy Live Channels!",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "IPTV GUIDE FOR MACBOX DEVICES CONCLUSION",
+				"description": "Conclusion://BREAK//Watching our Favorite TV Channels and shows from the Comfort place and from the working place can be achievable with the help of the iptvfor all devices(mobile, disktop, magbox, Laptop).Simply Download the app by following the above process.And you do not need to payfora subscription,whole content can be viewed free.it consumes very fewer data as compared to the other Live Streaming Applications.",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			}
 
-    ]
-  }
+		]
+	}
 }
