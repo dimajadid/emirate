@@ -1,6 +1,6 @@
 {
 	"Guide App": {
-		"ads_mode": "admost",
+		"ads_mode": "yandex",
 		"interstitial_interval": 1,
 		"native_interval": 2,
 
@@ -15,7 +15,7 @@
 		"tapdaq_native_id": "default",
 		"tapdaq_interstitial_id": "default",
 
-		"yandex_app_id": "90635",
+		"yandex_app_id": "1296444",
 		"yandex_banner_id": "adf-390342/1206981",
 		"yandex_native_id": "adf-390342/1206983",
 		"yandex_interstitial_id": "adf-390342/1206982",
