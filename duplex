@@ -1,6 +1,6 @@
 {
 	"Guide App": {
-		"ads_mode": "admost",
+		"ads_mode": "tapdaq",
 		"interstitial_interval": 1,
 		"native_interval": 2,
 
@@ -9,7 +9,7 @@
 		"admost_native_id": "fdaa30c0-5dd0-414a-ad09-dc7a685e9ef8",
 		"admost_interstitial_id": "25fb0458-173a-41af-aaa9-5457f0a3c43a",
 
-		"tapdaq_app_id": "6133577386c31c4e07c10b3c",
+		"tapdaq_app_id": "6133534508fe6c2d735d6ba8",
 		"tapdaq_client_key": "8b44c86d-4840-4d1b-be92-5897aabccdbb",
 		"tapdaq_banner_id": " default",
 		"tapdaq_native_id": "default",
